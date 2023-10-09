@@ -48,6 +48,7 @@ delete from manager where salary<2750;
 
 ### OUTPUT:
 
+![image](https://github.com/Mothesh-M127/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/94170892/3247f89f-7076-4791-a8eb-619f79b4bec2)
 
 ### Q3) Display each name of the employee as “Name” and annual salary as “Annual Salary” (Note: Salary in emp table is the monthly salary)
 
